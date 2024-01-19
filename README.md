@@ -25,7 +25,5 @@ Skills: Html / CSS / Tailwind CSS / JS / REACT / NEXT / NODE / EXPRESS / MongoDB
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/arafat-rifat/contributions?format=svg&private=true)  
 
-![GitHub metrics](https://metrics.lecoq.io/arafat-rifat)  
-
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=arafat-rifat)   
 
