@@ -1,7 +1,7 @@
 ![Software Engineer](https://pbs.twimg.com/profile_banners/1723594541922705408/1699772183/1500x500)
 
-### Hi there 👋, I am Arafat Hossain
-#### Software Engineer
+# Hi there 👋, I am Arafat Hossain
+## Software Engineer
 
 Hello! I'm Arafat Hossain, a skilled web developer with expertise in HTML, CSS, Tailwind CSS, and JavaScript. Specializing in front-end development, I craft visually appealing and responsive interfaces using frameworks like React.js and Next.js. Beyond the front-end, I'm proficient in back-end technologies, employing Express.js and Mongoose for server-side logic and database management. Collaborative by nature, I thrive on working with diverse teams to bring ideas to fruition. If you're exploring exciting projects or seeking a collaborator adept at seamlessly blending front-end finesse with back-end proficiency, let's connect! Find me on LinkedIn https://www.linkedin.com/in/arafat-hossain-592000258/ and on Twitter https://twitter.com/Rifat_Cse. Excited to create impactful digital solutions together!
 
